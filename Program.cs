@@ -21,7 +21,7 @@ namespace Questes1
         }
     }
 
-    public class Mef
+    internal class Mef
     {
         private CompositionContainer _container = null;
 
